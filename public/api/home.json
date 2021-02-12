@@ -1,0 +1,53 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+    {
+       "id": 1,
+        "title": "Hot Spots",
+        "imgUrl": "https://i.redd.it/cqxp2xypqo941.jpg"
+    }, {
+        "id": 3,
+        "title": "Celebrity",
+        "imgUrl": "https://i.redd.it/gz3hy3y1rte21.jpg"
+    }, {
+        "id": 4,
+        "title": "NFL",
+        "imgUrl": "https://i.redd.it/0kohlhc88vw31.jpg"
+    }
+  ],
+    "articleList": [{
+      "id": 1,
+      "title":"Symptoms of Coronavirus",
+      "desc": "People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure to the virus. People with these symptoms may have COVID-19:Fever or chills, Cough, Shortness of breath or difficulty breathing, Fatigue, Muscle or body aches, Headache, New loss of taste or smell, Sore throat, Congestion or runny nose Nausea or vomiting Diarrhea. This list does not include all possible symptoms. CDC will continue to update this list as we learn more about COVID-19.",
+      "imgUrl": "./covid1.JPG"
+    }, {
+      "id": 2,
+      "title": "Super Bowl 2021",
+      "desc": "For the second time in franchise history, the Buccaneers are Super Bowl champions. And for the seventh time in his career, Tom Brady is a Super Bowl champion.Brady outdueled Patrick Mahomes and the Chiefs on Sunday night, keeping them from repeating as Super Bowl champs. He did that by completing 21 of 29 passes for 201 yards and three touchdowns to no interceptions. He also got help from running backs Ronald Jones II (12 carries, 61 yards) and Leonard Fournette (16 carries, 89 yards, one score) in the Bucs' 31-9 rout.",
+      "imgUrl": "./nfl.JPG"
+    }, {
+      "id": 3,
+      "title": "Jazz keep humming along, but have bigger goals in mind",
+      "desc": "The first team in the NBA to reach 20 wins wasn’t the plan.But in getting there by besting the Boston Celtics 122-108 on Tuesday, the Utah Jazz hope they’re building a roadway to destinations beyond the first-round exits yielded from the last two trips to the postseason.“I told y’all at the beginning of the year: We got bounced out of the first round two years in a row. We’ve got to get past that. That’s it,” Jazz guard Donovan Mitchell said. “Then, from there, we’ll continue to push our goals. Our mind is stuck on the championship. We’re not here to kind of say, ‘Let’s just be in first,’ and get the accolades that come with that.“We’re trying to win the whole thing, and that’s been the mindset of this team and this group. You see it with our play, you see it with our grit and determination.”",
+      "imgUrl": "./nba.JPG"
+  } ],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "https://i.redd.it/599quewuwrt41.jpg"
+  },{ 
+      "id": 2,
+      "imgUrl": "https://i.redd.it/patqxv2ngzs41.jpg"
+  }],
+    "writerList": [{
+      "id": 1,
+      "imgUrl": "./Tom_Brady.JPG",
+      "title": "Tom Brady wins 7th Super Bowl title"
+    },{
+      "id": 2,
+      "imgUrl": "./tom.JPG",
+      "title": "Celebrating with teammates"
+    }]
+
+  }
+}

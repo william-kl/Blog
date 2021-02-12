@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "data": [{
+      "id": 4,
+      "title": "Lunar New Year's Traditions and Superstitions, Explained",
+      "desc": "When people talk about the 'holiday season' in the U.S., they typically refer to that period between Thanksgiving dinner and New Year's Day. But shortly after that, another massive holiday brings friends and family together in several Asian countries, with concurrent parties that carry on the traditions stateside. The Lunar New Year, most commonly associated with the Chinese New Year or Spring Festival, typically falls sometime between January 21 and February 20 annually. Lunar New Year 2021 is on February 12, and in terms of the Chinese zodiac animal, it's the Year of the Ox",
+      "imgUrl": "./lunar.jpg"
+    }, {
+      "id": 5,
+      "title": "Tech Trends: What Will Be The Biggest Innovations by 2022",
+      "desc": "Predicting the future is hard and risky. Predicting the future in the computer industry is even harder and riskier due to dramatic changes in technology and limitless challenges to innovation. Only a small fraction of innovations truly disrupt the state of the art. Some are not practical or cost-effective, some are ahead of their time, and some simply do not have a market. There are numerous examples of superior technologies that were never adopted because others arrived on time or fared better n the market. Therefore this document is only an attempt to better understand where technologies are going. The book Innovators Dilemma and its sequels best describe the process of innovation and disruption",
+      "imgUrl": "./cs.JPG"
+    }, {
+      "id": 6,
+      "title": "SpaceX's Starship",
+      "desc": "The Starship prototype descended under active aerodynamic control, accomplished by independent movement of two forward and two aft flaps on the vehicle. All four flaps are actuated by an onboard flight computer to control Starship’s attitude during flight and enable precise landing at the intended location. During the landing flip maneuver, one of the Raptor engines did not relight and caused SN9 to land at high speed and experience a RUD.These test flights are all about improving our understanding and development of a fully reusable transportation system designed to carry both crew and cargo on long-duration, interplanetary flights and help humanity return to the Moon, and travel to Mars and beyond.",
+      "imgUrl": "./starship.JPG"
+  } ]
+ 
+
+}
