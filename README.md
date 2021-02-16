@@ -5,7 +5,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 
 
-The blog is an online informational website that allows user to search and share with the latest posts. 
+The blog is an online informational website that allows user to search and share with the latest posts. The goal of this project is using JavaScript to build an online informational website that displaying information in a good way. It uses JavaScript famous library React and state container Redux. It has the basic structure of the average blog, which are header, detail pages and sidebars. There is a very interesting search function in the header, which can search the most popular terms in the site. It also has the capability of Login and Logout. 
 Although this project did not fully implement the message function of a blog, its structure, the search function inside the webpage and using Redux to manage `states`, laid a good foundation for the development of larger projects.
 
 
